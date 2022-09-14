@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Iván",
+      "surnames": "Pardal Coca",
+      "title": "C# Developer",
+      "location": {
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Santiago de Compostela"
+      }
+    }
+  }
+}
