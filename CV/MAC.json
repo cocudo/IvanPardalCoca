@@ -59,6 +59,12 @@
     ]
   },
   "careerPreferences": {
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Mobile Developer"
+      ]
+    },
     "status": "openToOffers"
   }
 }
