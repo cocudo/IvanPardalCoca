@@ -16,7 +16,13 @@
         "municipality": "Santiago de Compostela",
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/iv%C3%A1n-pardal-coca-24a73754/"
+      }
+    ]
   },
   "knowledge": {
     "hardSkills": [
@@ -59,6 +65,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/iv%C3%A1n-pardal-coca-24a73754/"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
