@@ -49,6 +49,45 @@
       },
       {
         "organization": {
+          "name": "Everis/NTT Data"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador C#",
+            "startDate": "2016-02-01",
+            "finishDate": "2019-06-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de proyectos y aplicaciones Web en el ámbito hospitalario. Mejora de funcionalidades existentes, corrección de errores y desarrollo de nuevos módulos tanto en las diferentes aplicaciones implantadas en un Hospital (Front y Back). Creación de pequeñas soluciones de software para los distintos servicios del Hospital."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "MVC",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Zemsania Tech Services & Solutions"
         },
         "roles": [
