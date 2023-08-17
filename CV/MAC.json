@@ -8,47 +8,207 @@
     "profile": {
       "name": "Iván",
       "surnames": "Pardal Coca",
-      "title": "Desarrollador senior backend C# y desarrollador mobile junior",
-      "description": "Soy desarrollador Full Stack en tecnologías .NET desde hace más de 9 años. Una incursión profesional en el soporte 2N/3N me aportó una visión diferente sobre el desarrollo de aplicaciones, la parte de los usuarios y como les afectan los problemas y errores, que considero que fue enriquecedora. Entusiasta de las tecnologías móviles, intento formarme en ellas siempre que puedo. Me considero una persona profesional y sociable, me gusta un ambiente de trabajo agradable y me esfuerzo en conseguirlo, ofreciendo ayuda a quien me la solicita y dispuesto a aprender de todos a mi alrededor. ",
-      "location": {
-        "country": "España",
-        "region": "Galicia",
-        "municipality": "Santiago de Compostela",
-        "notes": "Autocompleted using Google Maps API"
-      }
-    },
-    "relevantLinks": [
+      "title": "Software Engineer in Sothis",
+      "description": "Poder trabajar en lo que te gusta motiva, recibir elogios cuando haces bien las cosas motiva, recibir criticas constructivas motiva, la realización personal en el ámbito laboral motiva... y soy una persona que busca motivaciones y aprender continuamente. Apasionado del deporte. Atleta amateur compitiendo en las filas de la Universidad de Santiago de Compostela"
+    }
+  },
+  "experience": {
+    "jobs": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/iv%C3%A1n-pardal-coca-24a73754/"
+        "organization": {
+          "name": "Ricartnet informatica y telecomunicaciones"
+        },
+        "roles": [
+          {
+            "name": "Técnico electrónico (Becario)",
+            "startDate": "2023-08-17",
+            "challenges": [
+              {
+                "description": "Tecnico superior en desarrollo electronico: Reparacion de electronica de consumo, administracion de sistemas Windows y Linux, administracion de redes, recuperacion de sistemas y eliminacion de amenazas informaticas y malware"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sothis"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de software",
+            "startDate": "2023-07-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Didoseg Documentos"
+        },
+        "roles": [
+          {
+            "name": "Analista / C# Full Stack Developer",
+            "startDate": "2019-06-01",
+            "finishDate": "2023-07-31",
+            "challenges": [
+              {
+                "description": "Análisis de requisitos y desarrollo de soluciones dedicadas a facilitar la gestión académica en universidades privadas. Desarrollo de Apps móviles enfocadas a simplificar distintos trámites administrativos y mejorar la calidad de la información recibida por los alumnos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Zemsania Tech Services & Solutions"
+        },
+        "roles": [
+          {
+            "name": "Técnico de aplicaciones sanitarias",
+            "startDate": "2016-02-01",
+            "finishDate": "2017-03-31",
+            "challenges": [
+              {
+                "description": "La resolución de incidencias es tan solo una pequeña parte de lo que realizamos en el día a día en el Hospital. Nuestras tareas incluyen además formaciones a los facultativos y personal sanitario, coordinación de despliegues de nuevas aplicaciones, explotación de datos y realización de estadísticas, tratamiento de la información sanitaria, pequeños desarrollos complementarios a las aplicaciones ya implantadas, contacto con proveedores, y un amplio etcetera."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Plexus Tech"
+        },
+        "roles": [
+          {
+            "name": "Soporte de 1º nivel aplicaciones UAC",
+            "startDate": "2015-11-01",
+            "finishDate": "2016-01-31",
+            "challenges": [
+              {
+                "description": "Atender e identificar en un primer nivel los problemas de los usuarios que llaman, solucionando la incidencia, si es posible, o derivando con eficacia a los tecnicos especialistas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DST Software"
+        },
+        "roles": [
+          {
+            "name": "Junior Developer",
+            "startDate": "2014-08-01",
+            "finishDate": "2015-07-31",
+            "challenges": [
+              {
+                "description": "Desarrollo de software para gestion comercial, gestion de almacen y gestion contable en diversos Lenguajes de programacion como VisualBasic .NET, Java y Android"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DST Software"
+        },
+        "roles": [
+          {
+            "name": "Programador (Becario)",
+            "startDate": "2014-03-01",
+            "finishDate": "2014-06-30",
+            "challenges": [
+              {
+                "description": "Programacion Java, Programacion Android, Programacion en PHP, Manejo de bases de datos SQL y DB2, Realizacion de reportes en Crystal Reports. Manejo de entornos Linux. Manejo de entornos de informatica de gestión."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Argallando Educacion e Tempo Libre"
+        },
+        "roles": [
+          {
+            "name": "Monitor de tiempo libre",
+            "startDate": "2010-12-01",
+            "finishDate": "2011-01-31",
+            "challenges": [
+              {
+                "description": "Charlas sobre la naturaleza, juegos y canciones dedicadas a enseñar valores, inculcar a los niños la importancia del respeto mutuo y la amistad, especialidad en talleres de manualidades, cuentacuentos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Argallando Educacion e tempo libre"
+        },
+        "roles": [
+          {
+            "name": "Monitor de tiempo libre",
+            "startDate": "2010-08-01",
+            "finishDate": "2010-09-01",
+            "challenges": [
+              {
+                "description": "Campamentos de verano, talleres de manualidades, charlas sobre la importancia de la naturaleza y el respeto mutuo, acampadas, juegos y canciones populares."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Argallando Educacion e tempo libre"
+        },
+        "roles": [
+          {
+            "name": "Monitor de tiempo libre",
+            "startDate": "2009-07-01",
+            "finishDate": "2009-08-01",
+            "challenges": [
+              {
+                "description": "Charlas sobre la naturaleza, juegos y canciones dedicadas a enseñar valores, inculcar a los niños la importancia del respeto mutuo y la amistad, especialidad en talleres de manualidades, cuentacuentos."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Galician",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "GL",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "SQLServer",
+          "name": ".NET",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": ".NET",
+          "name": ".Net Core",
           "type": "technology"
         }
       },
@@ -66,14 +226,34 @@
       },
       {
         "skill": {
-          "name": "jQuery",
+          "name": "SQLServer",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": ".Net Core",
+          "name": "jQuery",
           "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -82,8 +262,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/iv%C3%A1n-pardal-coca-24a73754/"
+          "URL": "https://www.linkedin.com/in/iv%C3%A1n-pardal-coca-24a73754/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "ivanpardalcoca@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "659360690",
+          "countryCode": "+34"
         }
       ]
     },
@@ -126,5 +315,8 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Mi puesto ideal sería aquel en el que pudiese realizar diferentes tipos de trabajo a lo largo de la semana, pero pudiendo afrontar las tareas con el tiempo necesario para desempeñar el trabajo sin comprometer la calidad del mismo. Me gustaría que el ambiente fuese lo más constructivo y enriquecedor posible, y que se fomentase el aporte de ideas y soluciones sin importar de que escalafón proviniese. Un lugar donde se valore la formación en mejores procesos y nuevas tecnologías, y que se ofrezca la posibilidad de compaginar esta formación durante la jornada laboral. No me asusta tener que trabajar con código antiguo o migrar a tecnologías más actuales, siempre que sea puntualmente y no el día a día."
   }
 }
