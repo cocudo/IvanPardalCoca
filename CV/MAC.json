@@ -16,7 +16,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "Sothis"
+          "name": "Sothis Tech"
         },
         "roles": [
           {
@@ -24,7 +24,7 @@
             "startDate": "2023-07-01",
             "challenges": [
               {
-                "description": "TBD"
+                "description": "Desarrollo de soluciones MOM en Estrella Galicia"
               }
             ]
           }
