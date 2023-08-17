@@ -16,22 +16,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Ricartnet informatica y telecomunicaciones"
-        },
-        "roles": [
-          {
-            "name": "Técnico electrónico (Becario)",
-            "startDate": "2023-08-17",
-            "challenges": [
-              {
-                "description": "Tecnico superior en desarrollo electronico: Reparacion de electronica de consumo, administracion de sistemas Windows y Linux, administracion de redes, recuperacion de sistemas y eliminacion de amenazas informaticas y malware"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Sothis"
         },
         "roles": [
