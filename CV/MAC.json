@@ -1,16 +1,28 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Iván",
       "surnames": "Pardal Coca",
       "title": "Software Engineer in Sothis",
-      "description": "Poder trabajar en lo que te gusta motiva, recibir elogios cuando haces bien las cosas motiva, recibir criticas constructivas motiva, la realización personal en el ámbito laboral motiva... y soy una persona que busca motivaciones y aprender continuamente. Apasionado del deporte. Atleta amateur compitiendo en las filas de la Universidad de Santiago de Compostela"
-    }
+      "description": "Poder trabajar en lo que te gusta motiva, recibir elogios cuando haces bien las cosas motiva, recibir criticas constructivas motiva, la realización personal en el ámbito laboral motiva... y soy una persona que busca motivaciones y aprender continuamente. Apasionado del deporte. Atleta amateur compitiendo en las filas de la Universidad de Santiago de Compostela",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJp3Hd4kT-Lg0REeOHwIhoFOA)",
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Santiago de Compostela"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/iv%C3%A1n-pardal-coca-24a73754/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -211,14 +223,17 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "GL",
+        "fullName": "Gallego",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -287,15 +302,6 @@
         {
           "URL": "https://www.linkedin.com/in/iv%C3%A1n-pardal-coca-24a73754/",
           "type": "linkedin"
-        }
-      ],
-      "contactMails": [
-        "ivanpardalcoca@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "659360690",
-          "countryCode": "+34"
         }
       ]
     },
