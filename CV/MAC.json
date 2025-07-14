@@ -8,7 +8,7 @@
     "profile": {
       "name": "Iván",
       "surnames": "Pardal Coca",
-      "title": "Software Engineer in Sothis",
+      "title": ".NET software engineer",
       "description": "Poder trabajar en lo que te gusta motiva, recibir elogios cuando haces bien las cosas motiva, recibir criticas constructivas motiva, la realización personal en el ámbito laboral motiva... y soy una persona que busca motivaciones y aprender continuamente. Apasionado del deporte. Atleta amateur compitiendo en las filas de la Universidad de Santiago de Compostela",
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJp3Hd4kT-Lg0REeOHwIhoFOA)",
@@ -28,17 +28,24 @@
     "jobs": [
       {
         "organization": {
-          "name": "Sothis Tech"
+          "name": "Sixtema"
+        },
+        "roles": [
+          {
+            "name": "Analista/Desarrollador .NET",
+            "startDate": "2023-10-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sothis"
         },
         "roles": [
           {
             "name": "Ingeniero de software",
             "startDate": "2023-07-01",
-            "challenges": [
-              {
-                "description": "Desarrollo de soluciones MOM en Estrella Galicia"
-              }
-            ]
+            "finishDate": "2023-10-01"
           }
         ]
       },
@@ -50,7 +57,7 @@
           {
             "name": "Analista / C# Full Stack Developer",
             "startDate": "2019-06-01",
-            "finishDate": "2023-07-31",
+            "finishDate": "2023-07-01",
             "challenges": [
               {
                 "description": "Análisis de requisitos y desarrollo de soluciones dedicadas a facilitar la gestión académica en universidades privadas. Desarrollo de Apps móviles enfocadas a simplificar distintos trámites administrativos y mejorar la calidad de la información recibida por los alumnos."
@@ -61,38 +68,33 @@
       },
       {
         "organization": {
-          "name": "Everis/NTT Data"
+          "name": "everis"
         },
         "roles": [
           {
-            "name": "Desarrollador C#",
-            "startDate": "2017-03-01",
+            "name": "C# Web Developer",
+            "startDate": "2017-11-01",
             "finishDate": "2019-06-01",
             "challenges": [
               {
-                "description": "Desarrollo de proyectos y aplicaciones Web en el ámbito hospitalario. Mejora de funcionalidades existentes, corrección de errores y desarrollo de nuevos módulos tanto en las diferentes aplicaciones implantadas en un Hospital (Front y Back). Creación de pequeñas soluciones de software para los distintos servicios del Hospital."
+                "description": "Desarrollo de proyectos de desarrollo Web en el ámbito hospitalario, realizando tanto la parte de frontend como la parte del backend en los diferentes programas implantados en el Hospital, así como la creación de nuevas soluciones software."
               }
-            ],
-            "competences": [
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "everis"
+        },
+        "roles": [
+          {
+            "name": "Técnico de aplicaciones sanitarias",
+            "startDate": "2017-04-01",
+            "finishDate": "2017-12-01",
+            "challenges": [
               {
-                "name": ".NET",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "MVC",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
+                "description": "La resolución de incidencias es tan solo una pequeña parte de lo que realizamos en el día a día en el Hospital. Nuestras tareas incluyen además formaciones a los facultativos y personal sanitario, coordinación de despliegues de nuevas aplicaciones, explotación de datos y realización de estadísticas, tratamiento de la información sanitaria, pequeños desarrollos complementarios a las aplicaciones ya implantadas, contacto con proveedores, y un amplio etcetera."
               }
             ]
           }
@@ -106,7 +108,7 @@
           {
             "name": "Técnico de aplicaciones sanitarias",
             "startDate": "2016-02-01",
-            "finishDate": "2017-03-31",
+            "finishDate": "2017-03-01",
             "challenges": [
               {
                 "description": "La resolución de incidencias es tan solo una pequeña parte de lo que realizamos en el día a día en el Hospital. Nuestras tareas incluyen además formaciones a los facultativos y personal sanitario, coordinación de despliegues de nuevas aplicaciones, explotación de datos y realización de estadísticas, tratamiento de la información sanitaria, pequeños desarrollos complementarios a las aplicaciones ya implantadas, contacto con proveedores, y un amplio etcetera."
@@ -123,7 +125,7 @@
           {
             "name": "Soporte de 1º nivel aplicaciones UAC",
             "startDate": "2015-11-01",
-            "finishDate": "2016-01-31",
+            "finishDate": "2016-01-01",
             "challenges": [
               {
                 "description": "Atender e identificar en un primer nivel los problemas de los usuarios que llaman, solucionando la incidencia, si es posible, o derivando con eficacia a los tecnicos especialistas."
@@ -140,7 +142,7 @@
           {
             "name": "Junior Developer",
             "startDate": "2014-08-01",
-            "finishDate": "2015-07-31",
+            "finishDate": "2015-07-01",
             "challenges": [
               {
                 "description": "Desarrollo de software para gestion comercial, gestion de almacen y gestion contable en diversos Lenguajes de programacion como VisualBasic .NET, Java y Android"
@@ -157,10 +159,27 @@
           {
             "name": "Programador (Becario)",
             "startDate": "2014-03-01",
-            "finishDate": "2014-06-30",
+            "finishDate": "2014-06-01",
             "challenges": [
               {
                 "description": "Programacion Java, Programacion Android, Programacion en PHP, Manejo de bases de datos SQL y DB2, Realizacion de reportes en Crystal Reports. Manejo de entornos Linux. Manejo de entornos de informatica de gestión."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ricartnet informatica y telecomunicaciones"
+        },
+        "roles": [
+          {
+            "name": "Técnico electrónico (Becario)",
+            "startDate": "2012-01-01",
+            "finishDate": "2012-01-01",
+            "challenges": [
+              {
+                "description": "Tecnico superior en desarrollo electronico: Reparacion de electronica de consumo, administracion de sistemas Windows y Linux, administracion de redes, recuperacion de sistemas y eliminacion de amenazas informaticas y malware"
               }
             ]
           }
@@ -174,7 +193,7 @@
           {
             "name": "Monitor de tiempo libre",
             "startDate": "2010-12-01",
-            "finishDate": "2011-01-31",
+            "finishDate": "2011-01-01",
             "challenges": [
               {
                 "description": "Charlas sobre la naturaleza, juegos y canciones dedicadas a enseñar valores, inculcar a los niños la importancia del respeto mutuo y la amistad, especialidad en talleres de manualidades, cuentacuentos."
@@ -191,7 +210,7 @@
           {
             "name": "Monitor de tiempo libre",
             "startDate": "2010-08-01",
-            "finishDate": "2010-09-01",
+            "finishDate": "2010-08-01",
             "challenges": [
               {
                 "description": "Campamentos de verano, talleres de manualidades, charlas sobre la importancia de la naturaleza y el respeto mutuo, acampadas, juegos y canciones populares."
@@ -208,7 +227,7 @@
           {
             "name": "Monitor de tiempo libre",
             "startDate": "2009-07-01",
-            "finishDate": "2009-08-01",
+            "finishDate": "2009-07-01",
             "challenges": [
               {
                 "description": "Charlas sobre la naturaleza, juegos y canciones dedicadas a enseñar valores, inculcar a los niños la importancia del respeto mutuo y la amistad, especialidad en talleres de manualidades, cuentacuentos."
@@ -252,7 +271,67 @@
       },
       {
         "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
           "type": "technology"
         }
       },
@@ -264,7 +343,49 @@
       },
       {
         "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XML",
           "type": "technology"
         }
       },
@@ -273,6 +394,67 @@
           "name": "jQuery",
           "type": "technology"
         }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Grado en Ingeniería",
+        "startDate": "2017-01-01",
+        "institution": {
+          "name": "Universidad Nacional de Educación a Distancia - U.N.E.D."
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Ingeniería Informática",
+        "startDate": "2017-01-01",
+        "institution": {
+          "name": "Universidad Nacional de Educación a Distancia - U.N.E.D."
+        },
+        "finishDate": "2022-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Ingeniería Informática ",
+        "startDate": "2015-01-01",
+        "institution": {
+          "name": "Universitat Oberta de Catalunya"
+        },
+        "finishDate": "2016-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Multiplataforma",
+        "startDate": "2012-01-01",
+        "institution": {
+          "name": "IES San Clemente"
+        },
+        "finishDate": "2014-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Desarrollo de Productos Electrónicos",
+        "startDate": "2010-01-01",
+        "institution": {
+          "name": "CIFP Politécnico de Santiago"
+        },
+        "finishDate": "2012-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico en Soldadura y Calderería",
+        "startDate": "2006-01-01",
+        "institution": {
+          "name": "CIFP Politécnico de Santiago"
+        },
+        "finishDate": "2008-01-01"
       }
     ],
     "softSkills": [
