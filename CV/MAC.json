@@ -498,7 +498,15 @@
           "type": "technology"
         },
         {
+          "name": ".NET MAUI",
+          "type": "technology"
+        },
+        {
           "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "Android",
           "type": "technology"
         },
         {
