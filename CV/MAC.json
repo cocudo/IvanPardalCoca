@@ -494,6 +494,10 @@
           "type": "technology"
         },
         {
+          "name": ".NET Entity Framework Core",
+          "type": "technology"
+        },
+        {
           "name": ".Net Core",
           "type": "technology"
         },
@@ -503,6 +507,10 @@
         },
         {
           "name": "Apple iOS",
+          "type": "technology"
+        },
+        {
+          "name": "Blazor",
           "type": "technology"
         },
         {
