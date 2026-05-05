@@ -394,6 +394,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "CTG - Diseño UX / UI: Experiencia de Usuario e Interfaces Gráficas",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "Formadores IT",
+          "description": "CTG - Diseño UX / UI: Experiencia de Usuario e Interfaces Gráficas",
+          "URL": "https://campus.formadoresit.es/public/certificates/?id=SFpyazhVN3p6VzlXdE5aVVBZdHMrQT09OjrHgH-Sm1zrXM-Y0oG0JDpK",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/05/af3d3253-534b-408c-a83d-73b2b1475dc1_formadores_it_logo.jpg",
+            "alt": "formadores_it_logo.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Clean Code aplicado para desarrollos limpios y rentables",
         "startDate": "2023-05-01",
         "institution": {
