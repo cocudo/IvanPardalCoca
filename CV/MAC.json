@@ -394,6 +394,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Clean Code aplicado para desarrollos limpios y rentables",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "TrainingIT",
+          "description": "Clean Code aplicado para desarrollos limpios y rentables",
+          "URL": "https://cursos.trainingit.es/mod/customcert/verify_certificate.php?code=GBcnGjaFu2",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/05/4e5bb2c6-de68-47ba-8804-12a71dabb2aa_trainingit_logo.jpg",
+            "alt": "trainingit_logo.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "DESARROLLO CON LA PLATAFORMA .NET 7 Y C# 11",
         "startDate": "2023-05-01",
         "institution": {
