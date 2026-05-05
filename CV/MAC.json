@@ -369,15 +369,6 @@
     "studies": [
       {
         "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Grado en Ingeniería",
-        "startDate": "2017-01-01",
-        "institution": {
-          "name": "Universidad Nacional de Educación a Distancia - U.N.E.D."
-        }
-      },
-      {
-        "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Grado en Ingeniería Informática",
         "startDate": "2017-01-01",
