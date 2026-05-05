@@ -277,12 +277,6 @@
       },
       {
         "skill": {
-          "name": "AngularJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Bootstrap",
           "type": "technology"
         }
@@ -331,12 +325,6 @@
       },
       {
         "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MVC",
           "type": "technology"
         }
@@ -344,18 +332,6 @@
       {
         "skill": {
           "name": "Microsoft Office 365",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
           "type": "technology"
         }
       },
@@ -374,12 +350,6 @@
       {
         "skill": {
           "name": "Visual Basic",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Windows",
           "type": "technology"
         }
       },
