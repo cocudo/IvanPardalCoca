@@ -392,6 +392,39 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "DESARROLLO CON LA PLATAFORMA .NET 7 Y C# 11",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "campusMVP",
+          "description": "DESARROLLO CON LA PLATAFORMA .NET 7 Y C# 11",
+          "URL": "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Faulas.campusmvp.com%2FSELF%2FCertificates%2F2023_000517___Desarrollo_con_la_plataforma__NET_7_y_C__11___Fundamentos_Ivan_Pardal_Coca.pdf&urlhash=U28C&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_prof",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/05/650ddf00-9605-4446-81f8-9e674caf43a5_campusmvp_logo.jpg",
+            "alt": "campusmvp_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": ".NET Entity Framework Core",
+            "type": "technology"
+          },
+          {
+            "name": ".Net Core",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Grado en Ingeniería Informática",
