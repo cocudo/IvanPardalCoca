@@ -481,13 +481,17 @@
       },
       {
         "studyType": "officialDegree",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "Grado en Ingeniería Informática",
         "startDate": "2017-01-01",
         "institution": {
-          "name": "Universidad Nacional de Educación a Distancia - U.N.E.D."
-        },
-        "finishDate": "2022-01-01"
+          "name": "Universidad Nacional de Educación a Distancia - U.N.E.D.",
+          "URL": "https://www.uned.es/universidad/inicio/estudios/grados/grado-en-ingenieria-informatica.html?idContenido=1",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/05/41b71c28-c8d3-400b-b462-6edddb4bab0f_logo-uned-bajares.png",
+            "alt": "Logo-UNED-bajares.png"
+          }
+        }
       },
       {
         "studyType": "officialDegree",
