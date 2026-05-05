@@ -412,6 +412,21 @@
         "finishDate": "2016-01-01"
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Project Management Professional (PMP)",
+        "startDate": "2024-11-01",
+        "institution": {
+          "name": "Clúster TIC Galicia",
+          "description": "Project Management Professional (PMP)\nClúster TIC Galicia\n\nExpedición: nov. 2024",
+          "URL": "https://cursos.trainingit.es/mod/customcert/verify_certificate.php?code=JbjauaRIqA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/05/ac6179a4-01b7-4096-aded-bd0cccfa5e5c_cluster_tic_galicia_.jpg",
+            "alt": "cluster_tic_galicia_logo.jpg"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico Superior en Desarrollo de Aplicaciones Multiplataforma",
