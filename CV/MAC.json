@@ -265,19 +265,25 @@
       },
       {
         "skill": {
+          "name": ".NET Entity Framework",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET Entity Framework Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": ".Net Core",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Android",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bootstrap",
+          "name": "Blazor",
           "type": "technology"
         }
       },
@@ -290,6 +296,12 @@
       {
         "skill": {
           "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -325,6 +337,12 @@
       },
       {
         "skill": {
+          "name": "LinQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MVC",
           "type": "technology"
         }
@@ -332,6 +350,12 @@
       {
         "skill": {
           "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Razor",
           "type": "technology"
         }
       },
@@ -516,11 +540,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": ".NET",
+        "name": ".NET Entity Framework Core",
         "type": "technology"
       },
       {
         "name": ".Net Core",
+        "type": "technology"
+      },
+      {
+        "name": "C#",
         "type": "technology"
       },
       {
