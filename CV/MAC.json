@@ -635,8 +635,6 @@
       "preferredRoles": [
         "Backend Developer",
         "Full-stack Developer",
-        "IT Manager",
-        "Product Owner",
         "Tech Lead"
       ]
     },
@@ -670,7 +668,7 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "Mi puesto ideal sería aquel en el que pudiese realizar diferentes tipos de trabajo a lo largo de la semana, pero pudiendo afrontar las tareas con el tiempo necesario para desempeñar el trabajo sin comprometer la calidad del mismo. Me gustaría que el ambiente fuese lo más constructivo y enriquecedor posible, y que se fomentase el aporte de ideas y soluciones sin importar de que escalafón proviniese. Un lugar donde se valore la formación en mejores procesos y nuevas tecnologías, y que se ofrezca la posibilidad de compaginar esta formación durante la jornada laboral. No me asusta tener que trabajar con código antiguo o migrar a tecnologías más actuales, siempre que sea puntualmente y no el día a día.",
+    "desiredJobDescription": "Mi puesto ideal sería aquel en el que pudiese realizar diferentes tareas a lo largo de la semana, pero pudiendo afrontarlas con el tiempo necesario para desempeñar el trabajo sin comprometer la calidad del mismo. Me gustaría que el ambiente fuese lo más constructivo y enriquecedor posible, y que se fomentase el aporte de ideas y soluciones sin importar de que escalafón proviniese. Un lugar donde se valore la formación en mejores procesos y nuevas tecnologías, y que se ofrezca la posibilidad de compaginar esta formación durante la jornada laboral. No me asusta tener que trabajar con código antiguo o migrar a tecnologías más actuales, siempre que sea puntualmente y no el día a día.",
     "goodPractices": "Me gusta que el código hable el mismo idioma que el negocio, por eso intento aplicar principios de DDD para mantener la lógica bien organizada y separada de la infraestructura. Priorizo la legibilidad y el diseño limpio sobre las soluciones rápidas; creo que un código bien estructurado hoy es la clave para no tener dolores de cabeza mañana cuando el proyecto crezca."
   }
 }
