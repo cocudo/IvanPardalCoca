@@ -499,7 +499,11 @@
         "name": "Grado en Ingeniería Informática ",
         "startDate": "2015-01-01",
         "institution": {
-          "name": "Universitat Oberta de Catalunya"
+          "name": "Universitat Oberta de Catalunya",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/05/460925a7-18e6-4888-89e5-d7ae57e5ba6c_logo.png",
+            "alt": "logo.png"
+          }
         },
         "finishDate": "2016-01-01"
       },
@@ -632,7 +636,6 @@
         "Backend Developer",
         "Full-stack Developer",
         "IT Manager",
-        "Product Manager",
         "Product Owner",
         "Tech Lead"
       ]
