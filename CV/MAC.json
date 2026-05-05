@@ -409,6 +409,31 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Control de versiones con GIT Avanzado",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "TrainingIT",
+          "description": "Control de versiones con GIT Avanzado",
+          "URL": "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fcursos.trainingit.es%2Fmod%2Fcustomcert%2Fview.php%3Fid%3D116004&urlhash=Bz0q&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqiB4TjlUSIyqu9U6fz%2BNrw%3D%3D",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/05/4724f5dd-07af-41e1-ba08-bcefdd3959c6_trainingit_logo.jpg",
+            "alt": "trainingit_logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "DESARROLLO CON LA PLATAFORMA .NET 7 Y C# 11",
         "startDate": "2023-05-01",
         "institution": {
